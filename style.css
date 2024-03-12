@@ -43,9 +43,11 @@ p {
     justify-content: center;
     align-items: center;
     border-radius: 100px;
+    overflow: hidden;
 }
 img {
     max-height: 100%;
     max-width: 100%;
     border-radius: 100px;
+    transform: scale(2);
 }
